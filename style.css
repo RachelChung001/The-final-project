@@ -1,0 +1,85 @@
+#body {
+  background-color: rgb(238, 199, 147);
+}
+#cookie {
+  width: 125px;
+  height: 114px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#title {
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  border: 3px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 35px;
+  padding: 5px;
+  border-radius: 50px 50px 50px 50px;
+}
+#description {
+  text-align: center;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 50px 50px 50px 50px;
+  border-color: black;
+  margin-bottom:10px;
+  width: 150px;
+  height: 20px;
+}
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 50px 50px 50px 50px;
+  width: 100px;
+  height: 25px;
+}
+#answer {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+#alice {
+  background-image: url(./images/NormalAlice.PNG);
+  background-size: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  width: 192px;
+  height: 270px;
+  border-radius: 50px 50px 50px 50px;
+  border: 2px solid black;
+}
+#GoldCookie {
+  width: 124px;
+  height: 125px;
+  margin-left: auto;
+  margin-right: 70px;
+  display: block;
+  float: right;
+  margin-top: -116px;
+}
+#LBCookie {
+  width: 110px;
+  height: 110px;
+  margin-left: 85px;
+  margin-right: auto;
+  display: block;
+  float: left;
+  margin-top: -112px;
+}
